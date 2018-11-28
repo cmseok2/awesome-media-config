@@ -11,5 +11,5 @@ spring:
     console:
       enabled: true
      
-name: minseok-default
+name: minseok-default-choi
     
